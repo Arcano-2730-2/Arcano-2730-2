@@ -2,7 +2,7 @@
 ### Olá! Meu nome é Maurício Duque 👋
 
 <div>
-     <a href="https://github.com/Arcano-2730" target="_blank"><strong>😁 Meu perfil no Github!</strong></a>
+     <a href="https://github.com/Arcano-2730-2" target="_blank"><strong>😁 Meu perfil no Github!</strong></a>
 </div>
 
 <hr/>
@@ -16,11 +16,11 @@
 
 ### Tecnologias que uso:
 
-![Mauricio Duque GitHub stats](https://github-readme-stats.vercel.app/api?username=Arcano-2730&theme=algolia&show_icons=true)
+![Mauricio Duque GitHub stats](https://github-readme-stats.vercel.app/api?username=Arcano-2730-2&theme=algolia&show_icons=true)
 
 <hr/>
 
-[![Linguagens ](https://github-readme-stats.vercel.app/api/top-langs/?username=Arcano-2730&langs_count=8)](https://github.com/Arcano-2730/github-readme-stats)
+[![Linguagens ](https://github-readme-stats.vercel.app/api/top-langs/?username=Arcano-2730&langs_count=8)](https://github.com/Arcano-2730-2/github-readme-stats)
 
 <hr/>
 
