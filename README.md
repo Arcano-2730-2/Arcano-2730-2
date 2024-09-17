@@ -20,7 +20,7 @@
 
 <hr/>
 
-[![Linguagens ](https://github-readme-stats.vercel.app/api/top-langs/?username=Arcano-2730&langs_count=8)](https://github.com/Arcano-2730-2/github-readme-stats)
+[![Linguagens ](https://github-readme-stats.vercel.app/api/top-langs/?username=Arcano-2730-2&langs_count=8)](https://github.com/Arcano-2730-2/github-readme-stats)
 
 <hr/>
 
