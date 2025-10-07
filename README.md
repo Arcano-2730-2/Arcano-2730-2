@@ -31,7 +31,7 @@ Sou um desenvolvedor em formação pelo SENAI, apaixonado por tecnologia e por r
 <div align="center">
   <p><strong>Vitri AI</strong> é o meu projeto principal, uma plataforma onde aplico meus conhecimentos para desenvolver soluções inovadoras.</p>
   <a href="https://vitriai.com" target="_blank">
-    <img src="[COLOQUE AQUI O LINK PARA UM SCREENSHOT DO SITE VITRIAI.COM]" width="600px" alt="Demonstração do site Vitri AI">
+    
   </a>
   <p>O projeto foi construído com foco em [descreva o objetivo, ex: otimização de processos com IA] utilizando tecnologias como [mencione as tecnologias, ex: Python, Flask, React].</p>
   <h3><a href="https://vitriai.com" target="_blank">➡️ Visite o site: vitriai.com</a></h3>
