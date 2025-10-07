@@ -1,47 +1,86 @@
-- 👋 Hi, I’m @Arcano-2730-2
-### Olá! Meu nome é Maurício Duque 👋
+# Olá, eu sou o Maurício Duque! 👋
 
-<div>
-     <a href="https://github.com/Arcano-2730-2" target="_blank"><strong>😁 Meu perfil no Github!</strong></a>
-</div>
+### Desenvolvedor de Software | Entusiasta de Automação e Inteligência Artificial
 
-<hr/>
+<br>
 
-## Minhas Redes Sociais:
+## 🚀 Sobre Mim
+Sou um desenvolvedor em formação pelo SENAI, apaixonado por tecnologia e por resolver problemas através do código. Tenho um forte interesse em automação de processos e na aplicação de Inteligência Artificial para criar soluções mais eficientes. Atualmente, estou focado em aprimorar minhas habilidades em [Mencione 1 ou 2 tecnologias que você está estudando, ex: desenvolvimento back-end com Python e Machine Learning].
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mauriciod.catarino/)
-<a href = "mailto:mauriciodcatarino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?viewas=100000686899395&id=61557653672875/)
+- 🎓 Cursando **Habilitação Técnica em Desenvolvimento de Sistemas** no SESI/SENAI.
+- 🌱 Atualmente aprendendo sobre **Redes Neurais** e **Desenvolvimento Web com React**.
+- 📫 Como me encontrar: **mauriciodcatarino@gmail.com**
+- 💼 Aberto a oportunidades e novos desafios!
 
+<br>
 
-### Tecnologias que uso:
+## 🛠️ Minhas Tecnologias e Ferramentas
 
-![Mauricio Duque GitHub stats](https://github-readme-stats.vercel.app/api?username=Arcano-2730-2&theme=algolia&show_icons=true)
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+  </div>
 
-<hr/>
+<br>
 
-[![Linguagens ](https://github-readme-stats.vercel.app/api/top-langs/?username=Arcano-2730-2&langs_count=8)](https://github.com/Arcano-2730-2/github-readme-stats)
+## 📊 Minhas Estatísticas no GitHub
 
-<hr/>
+<p align="center">
+  <a href="https://github.com/Arcano-2730-2">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arcano-2730-2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcano-2730-2&layout=compact&langs_count=7&theme=algolia"/>
+  </a>
+</p>
 
-<div style="display: inline_block">
-     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-     <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-     <img align="center" alt="C++-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<br>
 
+## ✨ Projetos em Destaque
 
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Nome do Projeto 1</h3>
+      <br />
+      <a href="[LINK PARA O SEU PROJETO 1]">
+        <img src="[LINK PARA UMA IMAGEM/GIF DO SEU PROJETO]" alt="Demonstração do Projeto 1">
+      </a>
+      <br />
+      <p align="center">
+        Uma breve descrição do que o projeto faz, qual problema ele resolve e quais tecnologias você usou.
+      </p>
+      <p align="center">
+        <a href="[LINK PARA O SEU PROJETO 1]" target="_blank">
+          <b>Ver Repositório</b>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Nome do Projeto 2</h3>
+      <br />
+      <a href="[LINK PARA O SEU PROJETO 2]">
+        <img src="[LINK PARA UMA IMAGEM/GIF DO SEU PROJETO]" alt="Demonstração do Projeto 2">
+      </a>
+      <br />
+      <p align="center">
+        Uma breve descrição do que o projeto faz, qual problema ele resolve e quais tecnologias você usou.
+      </p>
+      <p align="center">
+        <a href="[LINK PARA O SEU PROJETO 2]" target="_blank">
+          <b>Ver Repositório</b>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<br/>
+<br>
 
-## Hobbies:
+## 📫 Entre em Contato
 
-<ul>
-     <li>Programar</li>
-     <li>Jogar Games</li>
-     <li>Escutar Músicas</li>
-</ul>
-
-<hr/>
+<p align="left">
+  <a href="mailto:mauriciodcatarino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="[SEU LINK DO LINKEDIN]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </p>
