@@ -26,55 +26,26 @@ Sou um desenvolvedor em formação pelo SENAI, apaixonado por tecnologia e por r
 
 <br>
 
-## 📊 Minhas Estatísticas no GitHub
+## ✨ Meu Principal Projeto: Vitri AI
 
-<p align="center">
-  <a href="https://github.com/Arcano-2730-2">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arcano-2730-2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcano-2730-2&layout=compact&langs_count=7&theme=algolia"/>
+<div align="center">
+  <p><strong>Vitri AI</strong> é o meu projeto principal, uma plataforma onde aplico meus conhecimentos para desenvolver soluções inovadoras.</p>
+  <a href="https://vitriai.com" target="_blank">
+    <img src="[COLOQUE AQUI O LINK PARA UM SCREENSHOT DO SITE VITRIAI.COM]" width="600px" alt="Demonstração do site Vitri AI">
   </a>
-</p>
+  <p>O projeto foi construído com foco em [descreva o objetivo, ex: otimização de processos com IA] utilizando tecnologias como [mencione as tecnologias, ex: Python, Flask, React].</p>
+  <h3><a href="https://vitriai.com" target="_blank">➡️ Visite o site: vitriai.com</a></h3>
+</div>
 
 <br>
 
-## ✨ Projetos em Destaque
+## 📊 Linguagens Mais Utilizadas
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Nome do Projeto 1</h3>
-      <br />
-      <a href="[LINK PARA O SEU PROJETO 1]">
-        <img src="[LINK PARA UMA IMAGEM/GIF DO SEU PROJETO]" alt="Demonstração do Projeto 1">
-      </a>
-      <br />
-      <p align="center">
-        Uma breve descrição do que o projeto faz, qual problema ele resolve e quais tecnologias você usou.
-      </p>
-      <p align="center">
-        <a href="[LINK PARA O SEU PROJETO 1]" target="_blank">
-          <b>Ver Repositório</b>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Nome do Projeto 2</h3>
-      <br />
-      <a href="[LINK PARA O SEU PROJETO 2]">
-        <img src="[LINK PARA UMA IMAGEM/GIF DO SEU PROJETO]" alt="Demonstração do Projeto 2">
-      </a>
-      <br />
-      <p align="center">
-        Uma breve descrição do que o projeto faz, qual problema ele resolve e quais tecnologias você usou.
-      </p>
-      <p align="center">
-        <a href="[LINK PARA O SEU PROJETO 2]" target="_blank">
-          <b>Ver Repositório</b>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Arcano-2730-2">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcano-2730-2&layout=compact&langs_count=7&theme=algolia"/>
+  </a>
+</p>
 
 <br>
 
@@ -83,4 +54,4 @@ Sou um desenvolvedor em formação pelo SENAI, apaixonado por tecnologia e por r
 <p align="left">
   <a href="mailto:mauriciodcatarino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="[SEU LINK DO LINKEDIN]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </p>
+</p>
