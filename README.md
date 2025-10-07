@@ -32,7 +32,7 @@ Sou um desenvolvedor em formação pelo SENAI, apaixonado por tecnologia e por r
   <a href="https://vitriai.com" target="_blank">
     
   </a>
-  <p>O projeto foi construído com foco em [descreva o objetivo, ex: otimização de processos com IA] utilizando tecnologias como [mencione as tecnologias, ex: Python, Flask, React].</p>
+  <p>O projeto foi construído com foco em melhorar imagens com IA, utilizando tecnologias como React, IA, PHP e JSON.</p>
   <h3><a href="https://vitriai.com" target="_blank">➡️ Visite o site: vitriai.com</a></h3>
 </div>
 
