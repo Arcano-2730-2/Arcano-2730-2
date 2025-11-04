@@ -7,7 +7,7 @@
 ## 🚀 Sobre Mim
 Sou um desenvolvedor em formação pelo SENAI, apaixonado por tecnologia e por resolver problemas através do código. Tenho um forte interesse em automação de processos e na aplicação de Inteligência Artificial para criar soluções mais eficientes. Atualmente, estou focado em aprimorar minhas habilidades em automatizar processos com Inteligência Artificial.
 - 🎓 Cursando **Habilitação Técnica em Desenvolvimento de Sistemas** no SESI/SENAI.
-- 🌱 Atualmente aprendendo sobre **Redes Neurais** e **Desenvolvimento Web com React**.
+- 🌱 Atualmente aprendendo sobre e **Desenvolvimento Web**.
 - 📫 Como me encontrar: **mauriciodcatarino@gmail.com**
 - 💼 Aberto a oportunidades e novos desafios!
 
