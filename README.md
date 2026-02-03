@@ -50,8 +50,8 @@ O **Vitri AI** é uma plataforma focada em processamento de imagem assistido por
 
 ## 📊 Estatísticas
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcano-2730-2&layout=compact&langs_count=7&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arcano-2730-2&show_icons=true&theme=algolia&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcano-2730-2&layout=compact&langs_count=7&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arcano-2730-2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 </p>
 
 <br>
@@ -59,8 +59,16 @@ O **Vitri AI** é uma plataforma focada em processamento de imagem assistido por
 ## 📫 Vamos conversar?
 Se você precisa de uma automação personalizada ou de um sistema sob medida, estou pronto para ajudar.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauriciodcatarino@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mauricio.tech) 
+<p align="left">
+  <a href="mailto:mauriciodcatarino@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_USER_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/mauricio.tech">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 ---
