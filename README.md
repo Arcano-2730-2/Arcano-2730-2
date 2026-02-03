@@ -48,17 +48,6 @@ O **Vitri AI** é uma plataforma focada em processamento de imagem assistido por
 
 <br>
 
-## 📊 Estatísticas
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcano-2730-2&layout=compact&langs_count=7&theme=algolia&hide_border=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arcano-2730-2&show_icons=true&theme=algolia&count_private=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arcano-2730-2&theme=algolia&hide_border=true" alt="GitHub Streak" />
-</p>
-
 <br>
 
 ## 📫 Vamos conversar?
