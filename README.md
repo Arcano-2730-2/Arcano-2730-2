@@ -1,56 +1,66 @@
 # Olá, eu sou o Maurício Duque! 👋
 
-### Desenvolvedor de Software | Entusiasta de Automação e Inteligência Artificial
-
-<br>
-
-## 🚀 Sobre Mim
-Sou um desenvolvedor em formação pelo SENAI, apaixonado por tecnologia e por resolver problemas através do código. Tenho um forte interesse em automação de processos e na aplicação de Inteligência Artificial para criar soluções mais eficientes. Atualmente, estou focado em aprimorar minhas habilidades em automatizar processos com Inteligência Artificial.
-- 🎓 Cursando **Habilitação Técnica em Desenvolvimento de Sistemas** no SESI/SENAI.
-- 🌱 Atualmente aprendendo sobre e **Desenvolvimento Web**.
-- 📫 Como me encontrar: **mauriciodcatarino@gmail.com**
-- 💼 Aberto a oportunidades e novos desafios!
-
-<br>
-
-## 🛠️ Minhas Tecnologias e Ferramentas
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  </div>
-
-<br>
-
-## ✨ Meu Principal Projeto: Vitri AI
-
-<div align="center">
-  <p><strong>Vitri AI</strong> é o meu projeto principal, uma plataforma onde aplico meus conhecimentos para desenvolver soluções inovadoras.</p>
-  <a href="https://vitriai.com" target="_blank">
-    
-  </a>
-  <p>O projeto foi construído com foco em melhorar imagens com IA, utilizando tecnologias como React, IA, PHP e JSON.</p>
-  <h3><a href="https://vitriai.com" target="_blank">➡️ Visite o site: vitriai.com</a></h3>
-</div>
-
-<br>
-
-## 📊 Linguagens Mais Utilizadas
-
-<p align="center">
-  <a href="https://github.com/Arcano-2730-2">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcano-2730-2&layout=compact&langs_count=7&theme=algolia"/>
-  </a>
-</p>
-
-<br>
-
-## 📫 Entre em Contato
+### Full Stack Developer | Automação Low-Code & IA | Estudante de Mecatrônica
 
 <p align="left">
-  <a href="mailto:mauriciodcatarino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[SEU LINK DO LINKEDIN]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/Status-Disponível%20para%20Projetos-brightgreen" alt="Status">
+  <img src="https://img.shields.io/badge/Foco-Automação%20&%20IA-blue" alt="Foco">
 </p>
+
+## 🚀 Sobre Mim
+Sou um desenvolvedor apaixonado por unir o mundo do software ao hardware. Com base técnica sólida pelo **SENAI** (Desenvolvimento de Sistemas) e atualmente cursando **Engenharia de Mecatrônica**, foco em criar soluções que otimizam processos e escalam negócios.
+
+Especialista em construir pontes entre ferramentas através de APIs e automações inteligentes, transformando fluxos manuais em sistemas autônomos.
+
+- 🎓 Graduando em **Mecatrônica** (Faculdade SENAI).
+- 🛠️ Especialista em **Automação de Processos** (n8n, Webhooks, Evolution API).
+- 🤖 Desenvolvedor de soluções integradas com **IA**.
+- 💼 Desenvolvedor da plataforma **Vitri AI**.
+
+<br>
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Code & Web
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+### Automação & Backend
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+
+### Hardware & IoT
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Espressif](https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white)
+
+<br>
+
+## ✨ Projeto em Destaque: Vitri AI
+O **Vitri AI** é uma plataforma focada em processamento de imagem assistido por Inteligência Artificial. 
+- **Stack:** React, PHP, Integrações de IA e JSON.
+- **Objetivo:** Demonstrar o poder da IA na melhoria de mídia digital.
+- ➡️ [Visite o projeto: vitriai.com](https://vitriai.com)
+
+<br>
+
+## 📊 Estatísticas
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcano-2730-2&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arcano-2730-2&show_icons=true&theme=algolia&include_all_commits=true"/>
+</p>
+
+<br>
+
+## 📫 Vamos conversar?
+Se você precisa de uma automação personalizada ou de um sistema sob medida, estou pronto para ajudar.
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauriciodcatarino@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mauricio.tech) 
+
+---
